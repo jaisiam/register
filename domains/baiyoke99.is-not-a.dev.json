@@ -1,0 +1,17 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "baiyoke99",
+
+    "owner": {
+        "repo": "https://github.com/jaisiam/woo",
+        "email": "jewelryhouse93@gmail.com"
+    },
+
+    "record": {
+        "A": ["76.76.21.21"],
+            },
+
+    "proxied": false
+}
